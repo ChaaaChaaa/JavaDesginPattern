@@ -1,15 +1,15 @@
 package classadapter;
 
 public class PrintBanner extends Banner implements Print {
-    public PrintBanner(String string){
+    public PrintBanner(String string) {
         super(string);
     }
 
-    public void printWeak(){
+    public void printWeak() {
         showWithParen();
     }
 
-    public void printStrong(){
+    public void printStrong() {
         showWithAster();
     }
 }
