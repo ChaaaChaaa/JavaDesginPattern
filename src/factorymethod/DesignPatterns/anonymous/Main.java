@@ -1,6 +1,6 @@
-package factorymethod.anonymous;
-import factorymethod.framework.*;
-import factorymethod.idcard.*;
+package factorymethod.DesignPatterns.anonymous;
+import factorymethod.DesignPatterns.framework.*;
+import factorymethod.DesignPatterns.idcard.*;
 
 public class Main {
     public static void main(String[] args){

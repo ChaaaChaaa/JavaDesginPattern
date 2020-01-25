@@ -1,5 +1,6 @@
-package factorymethod.idcard;
-import factorymethod.framework.*;
+package factorymethod.DesignPatterns.idcard;
+import factorymethod.DesignPatterns.framework.*;
+
 
 public class IDCard extends Product{
     private String owner;
